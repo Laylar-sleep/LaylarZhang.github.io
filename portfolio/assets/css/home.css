@@ -1,0 +1,18 @@
+
+
+#about{
+    height: 35em;
+    position:relative;
+    
+}
+
+#about .inner{
+    position:absolute;
+    bottom: 2em;
+}
+
+#about ul li{
+    
+    display: block;
+    margin: 20px;
+}
